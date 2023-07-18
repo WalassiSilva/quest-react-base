@@ -1,0 +1,19 @@
+.btn-area{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    padding: 10px;
+    background-color: #0d1211;
+    color: white;
+    border-radius: 20px;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    outline: 2px solid #8c8c8c;
+    outline-offset: -10px;
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
