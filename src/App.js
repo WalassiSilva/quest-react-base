@@ -4,7 +4,7 @@ import Button from './components/button/button';
 
 function App() {
   return (
-    <>
+    <> 
       <Texts></Texts>
 
       <Button label='Enviar Quest'></Button>

@@ -2,8 +2,7 @@ import './text.css';
 
 const Text = ({color, children}) => {
     return (
-        <div className="text">
-            <h2>Quest React Base </h2>
+        <div className="text">            
             <p style={{ color: color, textTransform: 'uppercase'}}>
                 {children}
             </p>
